@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+app/build/
+# モデルファイル(.task/.litertlm)は巨大なためコミットしない
+*.task
+*.litertlm
+# ローカル専用メモ（サーバ環境固有情報など。公開しない）
+*.local.md

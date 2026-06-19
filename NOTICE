@@ -1,0 +1,11 @@
+VoiceTrans
+Copyright (c) Batake
+
+This application uses Gemma, provided by Google LLC.
+Gemma is provided under and subject to the Gemma Terms of Use found at
+ai.google.dev/gemma/terms
+
+Use of the Gemma model is also subject to the Gemma Prohibited Use Policy
+(ai.google.dev/gemma/prohibited_use_policy).
+
+On-device inference is powered by Google AI Edge LiteRT / LiteRT-LM.
