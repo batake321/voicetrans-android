@@ -17,7 +17,7 @@ Google Pixel 9a 以上を想定。
 
 ## ⬇ ダウンロード（Android）
 - **最新リリース**: https://github.com/batake321/voicetrans-android/releases/latest
-- **APK直リンク**: [voicetrans-0.9.2.apk](https://github.com/batake321/voicetrans-android/releases/download/v0.9.0/voicetrans-0.9.2.apk)
+- **APK直リンク**: [voicetrans-0.9.3.apk](https://github.com/batake321/voicetrans-android/releases/download/v0.9.0/voicetrans-0.9.3.apk)
 
 ## 📖 使い方（画面つき）
 
