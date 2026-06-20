@@ -17,23 +17,23 @@ Google Pixel 9a 以上を想定。
 
 ## ⬇ ダウンロード（Android）— 2つの版があります
 
-### ✅ Gemma 3 版（安定・推奨）
-- **APK直リンク**: [voicetrans-0.9.1-gemma3.apk](https://github.com/batake321/voicetrans-android/releases/download/gemma3/voicetrans-0.9.1-gemma3.apk)
-- **リリースページ**: https://github.com/batake321/voicetrans-android/releases/tag/gemma3
-
-### 🧪 Gemma 4 版（デバッグ中）
+### ✅ Gemma 4 版（最新・推奨）
 - **APK直リンク**: [voicetrans-0.9.8.apk](https://github.com/batake321/voicetrans-android/releases/download/v0.9.0/voicetrans-0.9.8.apk)
 - **リリースページ**: https://github.com/batake321/voicetrans-android/releases/tag/v0.9.0
 
-| 版 | 状態 | モデル | 速度 | APK |
-|----|------|--------|------|------|
-| **✅ Gemma 3 版** | **安定（推奨）** | Gemma 3n E4B（約4.9GB） | GPUで高速 | [voicetrans-0.9.1-gemma3.apk](https://github.com/batake321/voicetrans-android/releases/download/gemma3/voicetrans-0.9.1-gemma3.apk) |
-| 🧪 Gemma 4 版 | **デバッグ中** | Gemma 4 E4B（約3.7GB） | CPU動作のため遅め | [voicetrans-0.9.8.apk](https://github.com/batake321/voicetrans-android/releases/download/v0.9.0/voicetrans-0.9.8.apk) |
+### Gemma 3 版（軽快な代替）
+- **APK直リンク**: [voicetrans-0.9.1-gemma3.apk](https://github.com/batake321/voicetrans-android/releases/download/gemma3/voicetrans-0.9.1-gemma3.apk)
+- **リリースページ**: https://github.com/batake321/voicetrans-android/releases/tag/gemma3
 
-- **まずは ✅ Gemma 3 版** をお使いください（安定して動作します）。
-- 🧪 **Gemma 4 版は現在デバッグ中**です。最新モデルですが、GPU推論で音声認識が固まる問題があり、暫定的に**CPU動作（遅い）**にしています。動作が不安定なことがあります。
+| 版 | おすすめ | モデル | 速度 | APK |
+|----|------|--------|------|------|
+| **✅ Gemma 4 版** | **推奨（最新・高精度）** | Gemma 4 E4B（約3.7GB） | CPU動作のためやや遅め | [voicetrans-0.9.8.apk](https://github.com/batake321/voicetrans-android/releases/download/v0.9.0/voicetrans-0.9.8.apk) |
+| Gemma 3 版 | 代替（軽快） | Gemma 3n E4B（約4.9GB） | GPUで高速 | [voicetrans-0.9.1-gemma3.apk](https://github.com/batake321/voicetrans-android/releases/download/gemma3/voicetrans-0.9.1-gemma3.apk) |
+
+- **おすすめは ✅ Gemma 4 版** です（最新モデルで高精度）。動作はCPUのためやや遅めです。
+- **動作の軽さ・速さを優先**するなら Gemma 3 版（GPUで高速）もお使いいただけます。
 - 2版は別アプリ扱いではなく、**どちらか一方をインストール**してお使いください（後から入れ替え可）。
-- 各リリース: [Gemma 3](https://github.com/batake321/voicetrans-android/releases/tag/gemma3) ／ [Gemma 4](https://github.com/batake321/voicetrans-android/releases/tag/v0.9.0)
+- 各リリース: [Gemma 4](https://github.com/batake321/voicetrans-android/releases/tag/v0.9.0) ／ [Gemma 3](https://github.com/batake321/voicetrans-android/releases/tag/gemma3)
 
 ## 📖 使い方（画面つき）
 
