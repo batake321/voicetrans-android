@@ -17,7 +17,15 @@ Google Pixel 9a 以上を想定。
 
 ## ⬇ ダウンロード（Android）— 2つの版があります
 
-| 版 | 状態 | モデル | 速度 | ダウンロード |
+### ✅ Gemma 3 版（安定・推奨）
+- **APK直リンク**: [voicetrans-0.9.1-gemma3.apk](https://github.com/batake321/voicetrans-android/releases/download/gemma3/voicetrans-0.9.1-gemma3.apk)
+- **リリースページ**: https://github.com/batake321/voicetrans-android/releases/tag/gemma3
+
+### 🧪 Gemma 4 版（デバッグ中）
+- **APK直リンク**: [voicetrans-0.9.6.apk](https://github.com/batake321/voicetrans-android/releases/download/v0.9.0/voicetrans-0.9.6.apk)
+- **リリースページ**: https://github.com/batake321/voicetrans-android/releases/tag/v0.9.0
+
+| 版 | 状態 | モデル | 速度 | APK |
 |----|------|--------|------|------|
 | **✅ Gemma 3 版** | **安定（推奨）** | Gemma 3n E4B（約4.9GB） | GPUで高速 | [voicetrans-0.9.1-gemma3.apk](https://github.com/batake321/voicetrans-android/releases/download/gemma3/voicetrans-0.9.1-gemma3.apk) |
 | 🧪 Gemma 4 版 | **デバッグ中** | Gemma 4 E4B（約3.7GB） | CPU動作のため遅め | [voicetrans-0.9.6.apk](https://github.com/batake321/voicetrans-android/releases/download/v0.9.0/voicetrans-0.9.6.apk) |
